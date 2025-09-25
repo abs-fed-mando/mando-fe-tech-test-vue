@@ -15,9 +15,7 @@
     "baseUrl": "./",
     "paths": {
       "@root/*": ["src/*"],
-      "@fonts/*": ["src/assets/fonts/*"],
       "@components/*": ["src/components/*"],
-      "@hooks/*": ["src/hooks/*"],
       "@utils/*": ["src/utils/*"]
     },
     "types": ["vitest", "vite/client"]
