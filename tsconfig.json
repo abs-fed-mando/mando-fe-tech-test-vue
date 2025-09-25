@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "jsx": "preserve",
+    "skipLibCheck": true,
+
+    "baseUrl": "./",
+    "paths": {
+      "@root/*": ["src/*"],
+      "@fonts/*": ["src/assets/fonts/*"],
+      "@components/*": ["src/components/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@utils/*": ["src/utils/*"]
+    },
+    "types": ["vitest", "vite/client"]
+  },
+  "include": [".","src/**/*", "src/decs.d.ts"],
+  "exclude": ["node_modules", "dist", "src/**/**.stories.ts"]
+}
