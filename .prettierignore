@@ -1,6 +1,3 @@
 # Ignore artifacts:
 dist
 coverage
-
-# Ignore all handlebars files:
-src/**/*.hbs
