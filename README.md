@@ -5,9 +5,15 @@ This test is designed to evaluate your ability to implement a frontend page desi
 
 ### The task
 
-Inside the `designs` folder on the root of the project, you'll find 2 files. These are the page templates to recreate. There are an array of elements on this page, all present their own challenges where you'll be able to shine and excel at demonstrating your technical ability.
-
+Inside the `designs` folder, there is a full-page design split across 5 different breakpoints. The design is made up of 8 different components. Details on what is required for each component can be found in the `specifications` folder.
 ![Landing Page.png](designs/Landing%20Page.png)
+
+#### Deliverables:
+- Required:
+  - `Header` and `Page Title` components.
+  - Must compile
+- Stretch:
+  - Any other component (Feel free to pick whichever)
 
 ### The Tech Stack
 
@@ -22,7 +28,7 @@ Inside the `designs` folder on the root of the project, you'll find 2 files. The
 
 ### The Rules
 
-- 3 hours to complete as much of the test as possible. We do not expect you to implement the entire page template. We're purely looking for your strengths and how the components are implemented.
+- 2 hours to complete as much of the test as possible. We do not expect you to implement the entire page template. We're purely looking for your strengths and how the components are implemented.
 - No use of AI. We're testing your knowledge of implementation. We will be quizzing you on your choices.
 - Have fun and try not to stress! :)
 
