@@ -23,6 +23,14 @@ Inside the `designs` folder, there is a full-page design split across 5 differen
 - LG: 1336px
 - XL: 1600px
 
+#### Images
+For images that need to be used, feel free to use any placeholder service:
+- https://placehold.co/
+- https://placedog.net/
+
+#### Icons
+The project is set up to use Font Awesome Free. For any icon usage, please use this.
+
 ### The Tech Stack
 
 - Vue 3

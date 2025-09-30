@@ -17,3 +17,6 @@
 | Requirement            | Acceptance Criteria                                                          |
 |------------------------|------------------------------------------------------------------------------|
 | Mobile menu visibility | A website visitor should see a mobile menu on mobile breakpoints (XS and SM) |
+
+### Notes
+There is no need to implement a mobile menu for this component. Only just what is seen in the designs
