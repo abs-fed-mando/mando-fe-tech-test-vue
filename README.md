@@ -8,12 +8,20 @@ This test is designed to evaluate your ability to implement a frontend page desi
 Inside the `designs` folder, there is a full-page design split across 5 different breakpoints. The design is made up of 8 different components. Details on what is required for each component can be found in the `specifications` folder.
 ![Landing Page.png](designs/Landing%20Page.png)
 
+
 #### Deliverables:
 - Required:
   - `Header` and `Page Title` components.
   - Must compile
 - Stretch:
   - Any other component (Feel free to pick whichever)
+
+#### Breakpoints
+- XS: 320px
+- SM: 600px
+- MD: 1024px
+- LG: 1336px
+- XL: 1600px
 
 ### The Tech Stack
 
